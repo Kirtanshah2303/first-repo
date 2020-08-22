@@ -1,4 +1,4 @@
-# This is my first repo
+# First repo
 
 **Hello Folks,This is my First repo**
 
